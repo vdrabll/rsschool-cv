@@ -1,2 +1,2 @@
 # rsschool-cv
-My repository for RS Development course!
+https://github.com/vdrabll/rsschool-cv/blob/gh-pages/cv.md
