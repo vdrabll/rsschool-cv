@@ -15,7 +15,7 @@
 
 4. Being a cs student I have some experience at programming in c++ and java 
 
-5. I alsohave experience at IU testing at UTEST
+5. I also have experience at IU testing at UTEST
  
 
 6. My English level is B1 
