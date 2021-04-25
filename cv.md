@@ -12,6 +12,7 @@
   * learn a bunch of new information to become a IOS Developer 
   * build my base at IOS Development 
   * Create my own app
+  * meet new intresting people! 
 
 4. Being a cs student I have some experience at programming in c++ and java 
 
